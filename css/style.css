@@ -4,6 +4,16 @@ body {
 }
 
 
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.robo {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size:37px;
+}
+
 
 element.style {
   height: 900px !important;
@@ -67,6 +77,9 @@ footer a {
     width:50%;
   }
 
+h5 {
+  text-align: center;
+}
 /*
   .showcase {
     float: right;
